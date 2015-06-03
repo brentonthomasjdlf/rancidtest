@@ -1,3 +1,7 @@
 .old
 *.new
 *.raw
+networking/routers.db
+networking/routers.all
+networking/routers.down
+networking/routers.up
