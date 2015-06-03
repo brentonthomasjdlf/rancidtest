@@ -4,3 +4,4 @@
 networking/routers.all
 networking/routers.down
 networking/routers.up
+logs
